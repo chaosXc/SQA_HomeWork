@@ -1,0 +1,4 @@
+Formal methods is something like  a particular kind of mathematically based techniques for the specification, 
+development and verification of software and hardware systems
+Model checking is something like a technique for automatically verifying correctness properties of 
+finite-state systems. We can use the Model checking for identify the project is correcat.
